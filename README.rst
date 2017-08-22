@@ -1,7 +1,7 @@
 README
 ======
 
-This folder contains the oucomes of the research project **Dhi Qar Knowledge Base**, 
+This folder contains the outcomes of the research project **Dhi Qar Knowledge Base**, 
 performed in 2007-2008 by Epistematica.
 
 Documentation is available on the `Read The Docs <http://dhiqar-knowledgebase.readthedocs.io/en/latest/>`__ site.
